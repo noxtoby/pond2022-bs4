@@ -12,3 +12,5 @@ To mark the first 10 years of POND modelling, the [UCL POND](http://pond.cs.ucl.
 Stay tuned for more information.
 
 [Contact us](mailto:team@pond2022.com).
+
+Past meetings: [POND16](http://europond.eu/pond2016), [POND18](http://europond.eu/pond2018), [POND20](http://europond.github.io/compage2020) (Compage2020)
