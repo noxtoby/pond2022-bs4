@@ -28,4 +28,4 @@ Past meetings:
 
 <h2 align="center">What is POND modelling?</h2>
 
-<p align="center">Checkout [https://disease-progression-modelling.github.io](https://disease-progression-modelling.github.io)</p>
+<p align="center">Checkout <a href="https://disease-progression-modelling.github.io">disease-progression-modelling.github.io</a></p>
