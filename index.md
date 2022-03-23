@@ -13,6 +13,8 @@ To mark the first 10 years of POND modelling, the [UCL POND](http://pond.cs.ucl.
   <strong>Engaging. Thought-provoking. Fun.</strong>
 </p>
 
+Draft Programme is available [here](/programme.md).
+
 Stay tuned for more information.
 
 [Contact us](mailto:team@pond2022.com).
