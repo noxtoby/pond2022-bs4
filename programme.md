@@ -25,11 +25,11 @@ title: POND22 programme
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Plenary 1</td><td>The WHY: before DPM</td>
+            <td></td><td>Plenary 1</td><td>**The WHY**: before DPM</td>
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Session 1</td><td>ML, Forecasting, etc.</td>
+            <td></td><td style="text-align:right">Session 1</td><td style="text-align:right">ML, Forecasting, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
@@ -37,11 +37,11 @@ title: POND22 programme
             <td></td>
         </tr>
         <tr>
-            <td></td><td>Plenary 2</td><td>The WHAT: phenomenological DPM</td>
+            <td></td><td>Plenary 2</td><td>**The WHAT**: phenomenological DPM</td>
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Session 2</td><td>DPM, Subtyping, etc.</td>
+            <td></td><td style="text-align:right">Session 2</td><td style="text-align:right">DPM, Subtyping, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
@@ -49,11 +49,11 @@ title: POND22 programme
             <td></td>
         </tr>
         <tr>
-            <td></td><td>Plenary 3</td><td>The HOW: mechanistic DPM</td>
+            <td></td><td>Plenary 3</td><td>**The HOW**: mechanistic DPM</td>
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Session 3</td><td>Network spreading, Causality, etc.</td>
+            <td></td><td style="text-align:right">Session 3</td><td style="text-align:right">Network spreading, Causality, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
