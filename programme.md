@@ -84,7 +84,7 @@ title: POND22 programme
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Interactive Session</td><td>Facilitated Discussion and Round Table: Will POND models have clinical impact?</td>
+            <td></td><td>Round Table</td><td>Will POND models have clinical impact?</td>
             <td>Reviewer 3, et al.</td>
         </tr>
     </tbody>
