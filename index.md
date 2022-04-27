@@ -5,9 +5,13 @@ title: POND22
 
 <!-- [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/noxtoby/pond2022-bs4) -->
 
-## A celebration of the past, present, and future of data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases.
+![POND22 logo](/assets/img/pond2022_logo.png)
+
+### Data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases
 
 To mark the first 10 years of POND modelling, the [UCL POND](http://pond.cs.ucl.ac.uk) group are hosting a special meeting in London UK, on 6 & 7 July 2022.
+
+POND22 is a celebration of the past, present, and future of data-driven disease progression modelling.
 
 <p align="center">
   <strong>Engaging. Thought-provoking. Fun.</strong>
@@ -28,6 +32,6 @@ Past meetings:
 
 <hr/>
 
-<h2 align="center">What is POND modelling?</h2>
+<h3 align="center">What is POND modelling?</h3>
 
 <p align="center">Checkout <a href="https://disease-progression-modelling.github.io">disease-progression-modelling.github.io</a></p>

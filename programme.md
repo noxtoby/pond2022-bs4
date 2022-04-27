@@ -25,8 +25,8 @@ title: POND22 programme
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Plenary 1</td><td>**The WHY**: before DPM</td>
-            <td>TBC</td>
+            <td></td><td>Plenary 1</td><td><strong>The WHY</strong>: before DPM</td>
+            <td><a href="https://researchinformation.amsterdamumc.org/en/persons/betty-tijms">Betty Tijms</a>, Amsterdam UMC</td>
         </tr>
         <tr>
             <td></td><td style="text-align:right">Session 1</td><td style="text-align:right">ML, Forecasting, etc.</td>
@@ -37,8 +37,8 @@ title: POND22 programme
             <td></td>
         </tr>
         <tr>
-            <td></td><td>Plenary 2</td><td>**The WHAT**: phenomenological DPM</td>
-            <td>TBC</td>
+            <td></td><td>Plenary 2</td><td><strong>The WHAT</strong>: phenomenological DPM</td>
+            <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr>
             <td></td><td style="text-align:right">Session 2</td><td style="text-align:right">DPM, Subtyping, etc.</td>
@@ -49,15 +49,15 @@ title: POND22 programme
             <td></td>
         </tr>
         <tr>
-            <td></td><td>Plenary 3</td><td>**The HOW**: mechanistic DPM</td>
-            <td>TBC</td>
+            <td></td><td>Plenary 3</td><td><strong>The HOW</strong>: mechanistic DPM</td>
+            <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
         <tr>
             <td></td><td style="text-align:right">Session 3</td><td style="text-align:right">Network spreading, Causality, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Evening Pub Session</td><td>Anecdotes, Pint of DPM</td>
+            <td></td><td>Evening Pub Session</td><td>Anecdotes; Pint of POND</td>
             <td>TBC</td>
         </tr>
     </tbody>
@@ -85,8 +85,8 @@ title: POND22 programme
             <td>TBC</td>
         </tr>
         <tr>
-            <td></td><td>Interactive Session(s)</td><td>Round Table / Debate</td>
-            <td>TBC</td>
+            <td></td><td>Interactive Session</td><td>Facilitated Discussion and Round Table: Will POND models for clinical applications (trials and healthcare)</td>
+            <td>Reviewer 3, et al.</td>
         </tr>
     </tbody>
 </table>
