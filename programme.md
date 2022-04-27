@@ -5,11 +5,10 @@ title: POND22 programme
 
 ## A celebration of the past, present, and future of data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases.
 
-### POND22 Programme (draft)
 
 <h2 align="center">Day 1 (Wednesday 6 July 2022)</h2>
 
-<table>
+<table class="styled-table">
     <!-- <caption>Description</caption> -->
     <thead>
         <tr>
@@ -29,7 +28,7 @@ title: POND22 programme
             <td><a href="https://researchinformation.amsterdamumc.org/en/persons/betty-tijms">Betty Tijms</a>, Amsterdam UMC</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 1</td><td style="text-align:right">ML, Forecasting, etc.</td>
+            <td></td><td style="text-align:right">Session 1</td><td style="text-align:center">ML, Forecasting, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
@@ -41,7 +40,7 @@ title: POND22 programme
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 2</td><td style="text-align:right">DPM, Subtyping, etc.</td>
+            <td></td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
@@ -53,7 +52,7 @@ title: POND22 programme
             <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 3</td><td style="text-align:right">Network spreading, Causality, etc.</td>
+            <td></td><td style="text-align:right">Session 3</td><td style="text-align:center">Network spreading, Causality, etc.</td>
             <td>TBC</td>
         </tr>
         <tr>
