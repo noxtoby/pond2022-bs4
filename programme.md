@@ -68,7 +68,7 @@ title: POND22 programme
 
 <h2 align="center">Day 2 (Thursday 7 July 2022)</h2>
 
-<table>
+<table class="styled-table">
     <!-- <caption>Description</caption> -->
     <thead>
         <tr>
