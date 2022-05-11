@@ -28,8 +28,8 @@ title: POND22 programme
             <td><a href="https://researchinformation.amsterdamumc.org/en/persons/betty-tijms">Betty Tijms</a>, Amsterdam UMC</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 1</td><td style="text-align:center">ML, Forecasting, etc.</td>
-            <td>TBC</td>
+            <td></td><td style="text-align:right">Session 1</td><td style="text-align:center">ML, Forecasting,...</td>
+            <td>Esther Bron, ErasmusMC. <br/>Jacob Vogel, UPenn.</td>
         </tr>
         <tr>
             <td></td><td>Break</td><td></td>
@@ -40,7 +40,7 @@ title: POND22 programme
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping, etc.</td>
+            <td></td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
             <td>TBC</td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@ title: POND22 programme
             <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
         <tr>
-            <td></td><td style="text-align:right">Session 3</td><td style="text-align:center">Network spreading, Causality, etc.</td>
+            <td></td><td style="text-align:right">Session 3</td><td style="text-align:center">Network spreading, Causality, Mechanisms,...</td>
             <td>TBC</td>
         </tr>
         <tr>
