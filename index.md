@@ -21,7 +21,7 @@ Programme is available [here](/programme.md) (updated live as more speakers conf
 
 Stay tuned for more information.
 
-[Contact us](mailto:team@pond2022.com).
+[Contact us](mailto:n.oxtoby@ucl.ac.uk).
 
 <hr/>
 
