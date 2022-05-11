@@ -92,5 +92,5 @@ title: POND22 programme
 
 <hr/>
 
-[Contact us](mailto:team@pond2022.com).
+[Contact us](mailto:n.oxtoby@ucl.ac.uk).
 
