@@ -11,13 +11,13 @@ title: POND22
 
 To mark the first 10 years of POND modelling, the [UCL POND](http://pond.cs.ucl.ac.uk) group are hosting a special meeting in London UK, on 6 & 7 July 2022.
 
-POND22 is a celebration of the past, present, and future of data-driven disease progression modelling.
+POND22 is a celebration of the past, present, and future of data-driven disease progression modelling (DPM).
 
 <p align="center">
   <strong>Engaging. Thought-provoking. Fun.</strong>
 </p>
 
-Draft Programme is available [here](/programme.md).
+Programme is available [here](/programme.md) (updated live as more speakers confirm).
 
 Stay tuned for more information.
 

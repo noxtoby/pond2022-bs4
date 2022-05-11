@@ -20,7 +20,7 @@ title: POND22 programme
     </thead>
     <tbody>
         <tr>
-            <td></td><td>Welcome</td><td>DPM background</td>
+            <td></td><td>Welcome</td><td>Disease Progression Modelling (DPM) background</td>
             <td>TBC</td>
         </tr>
         <tr>
