@@ -19,43 +19,43 @@ title: POND22 programme
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td>Welcome</td><td>Disease Progression Modelling (DPM) background</td>
             <td>TBC</td>
         </tr>
-        <tr>
+        <tr style="background-color:#05a5cc">
             <td></td><td>Plenary 1</td><td><strong>The WHY</strong>: before DPM</td>
             <td><a href="https://researchinformation.amsterdamumc.org/en/persons/betty-tijms">Betty Tijms</a>, Amsterdam UMC</td>
         </tr>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td style="text-align:right">Session 1</td><td style="text-align:center">ML, Forecasting,...</td>
             <td>Esther Bron, ErasmusMC. <br/>Jacob Vogel, UPenn.</td>
         </tr>
-        <tr>
-            <td></td><td>Break</td><td></td>
+        <tr style="background-color:#000000">
+            <td></td><td></td><td>Break</td>
             <td></td>
         </tr>
-        <tr>
+        <tr style="background-color:#05a5cc">
             <td></td><td>Plenary 2</td><td><strong>The WHAT</strong>: phenomenological DPM</td>
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
             <td>TBC</td>
         </tr>
-        <tr>
-            <td></td><td>Break (lunch)</td><td></td>
+        <tr style="background-color:#000000">
+            <td></td><td></td><td>Break (lunch)</td>
             <td></td>
         </tr>
-        <tr>
+        <tr style="background-color:#05a5cc">
             <td></td><td>Plenary 3</td><td><strong>The HOW</strong>: mechanistic DPM</td>
             <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td style="text-align:right">Session 3</td><td style="text-align:center">Network spreading, Causality, Mechanisms,...</td>
             <td>TBC</td>
         </tr>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td>Evening Pub Session</td><td>Anecdotes; Pint of POND</td>
             <td>TBC</td>
         </tr>
@@ -79,11 +79,11 @@ title: POND22 programme
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr style="background-color:#000000">
             <td></td><td>Welcome</td><td>Highlights of Day 1</td>
             <td>TBC</td>
         </tr>
-        <tr>
+        <tr style="background-color:#05a5cc">
             <td></td><td>Round Table</td><td>Will POND models have clinical impact?</td>
             <td>Reviewer 3, et al.</td>
         </tr>
