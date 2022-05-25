@@ -42,8 +42,8 @@ $green:   #56CC9D !default;
 $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
-$primary:       #ffb700 !default; // #78C2AD
-$secondary:     #F3969A !default;
+$primary:       $blue !default; // #78C2AD
+$secondary:     $orange !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
