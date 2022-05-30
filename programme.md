@@ -6,7 +6,7 @@ title: POND22 programme
 ## A celebration of the past, present, and future of data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases.
 
 
-<h3 align="center">Day 1 (Wednesday 6 July 2022)</h2>
+<h3 align="center">Day 1 (Wednesday 6 July 2022)</h3>
 
 Timings are subject to change. All times UTC+1 (London time).
 
@@ -68,7 +68,7 @@ Timings are subject to change. All times UTC+1 (London time).
 
 <hr/>
 
-<h3 align="center">Day 2 (Thursday 7 July 2022)</h2>
+<h3 align="center">Day 2 (Thursday 7 July 2022)</h3>
 
 <table class="styled-table">
     <!-- <caption>Description</caption> -->
