@@ -267,6 +267,7 @@ legend {
 .breadcrumb {
   a {
     color: $primary; // $navbar-dark-color;
+    text-decoration: underline;
   }
 
   a:hover {

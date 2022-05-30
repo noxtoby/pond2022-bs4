@@ -6,7 +6,7 @@ title: POND22 programme
 ## A celebration of the past, present, and future of data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases.
 
 
-<h2 align="center">Day 1 (Wednesday 6 July 2022)</h2>
+<h3 align="center">Day 1 (Wednesday 6 July 2022)</h2>
 
 Timings are subject to change. All times UTC+1 (London time).
 
@@ -68,7 +68,7 @@ Timings are subject to change. All times UTC+1 (London time).
 
 <hr/>
 
-<h2 align="center">Day 2 (Thursday 7 July 2022)</h2>
+<h3 align="center">Day 2 (Thursday 7 July 2022)</h2>
 
 <table class="styled-table">
     <!-- <caption>Description</caption> -->
@@ -82,12 +82,12 @@ Timings are subject to change. All times UTC+1 (London time).
     </thead>
     <tbody>
         <tr style="background-color:#000000">
-            <td></td><td>Welcome</td><td>Highlights of Day 1</td>
-            <td>0930</td>
+            <td>0930</td><td>Welcome</td><td>Regroup. Highlights of Day 1</td>
+            <td>Neil Oxtoby</td>
         </tr>
         <tr style="background-color:#05a5cc">
-            <td>1030</td><td>Round Table</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
-            <td>Reviewer 3, et al.</td>
+            <td>1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
+            <td>Moderated by UCL POND.<br/>Reviewer 3, et al.</td>
         </tr>
     </tbody>
 </table>
