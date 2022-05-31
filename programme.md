@@ -43,7 +43,7 @@ Timings are subject to change. All times UTC+1 (London time).
         </tr>
         <tr style="background-color:#000000">
             <td>1200</td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
-            <td>Peter Wijeratne, UCL<br/>+TBC</td>
+            <td><a href="https://pawij.github.io/">Peter Wijeratne</a>, UCL<br/>+TBC</td>
         </tr>
         <tr style="background-color:#000000">
             <td></td><td></td><td>Break (lunch)</td>
