@@ -17,8 +17,8 @@ You will be challenged. You will challenge us. You will have a lot of fun discus
 
 Links:
 <ul>
-    <li>[Programme](/programme.md)</li>
-    <li>[Registration](https://www.eventbrite.co.uk/e/pond22-tickets-332501861017)</li>
+    <li><a href="https://pond2022.com/programme.html">Programme</a></li>
+    <li><a href="https://www.eventbrite.co.uk/e/pond22-tickets-332501861017">Registration</a></li>
 </ul>
 
 [Contact us](mailto:n.oxtoby@ucl.ac.uk).
