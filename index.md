@@ -19,11 +19,10 @@ Links:
 <ul>
     <li><a href="https://pond2022.com/programme.html">Programme</a></li>
     <li><a href="https://www.eventbrite.co.uk/e/pond22-tickets-332501861017">Registration</a></li>
+    <li><a href="mailto:n.oxtoby@ucl.ac.uk?subject='POND22 query'">Contact us</a></li>
 </ul>
 
-[Contact us](mailto:n.oxtoby@ucl.ac.uk).
-
-<hr/>
+<hr style="background-color:white"/>
 
 Past meetings: 
 - [POND16](http://europond.eu/pond2016) in London, UK
