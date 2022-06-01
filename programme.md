@@ -22,7 +22,7 @@ Timings are subject to change. All times UTC+1 (London time).
     </thead>
     <tbody>
         <tr style="background-color:#000000">
-            <td></td><td>Welcome</td><td>Disease Progression Modelling (DPM)</td>
+            <td>0850</td><td>Welcome</td><td>Disease Progression Modelling (DPM)</td>
             <td>TBC</td>
         </tr>
         <tr style="background-color:#05a5cc">
@@ -34,32 +34,32 @@ Timings are subject to change. All times UTC+1 (London time).
             <td>Esther Bron, ErasmusMC. <br/>Jacob Vogel, UPenn.</td>
         </tr>
         <tr style="background-color:#000000">
-            <td></td><td></td><td>Break</td>
+            <td>1100</td><td></td><td>Coffee and Conversations</td>
             <td></td>
         </tr>
         <tr style="background-color:#05a5cc">
-            <td>1100</td><td>Plenary 2</td><td><strong>The WHAT</strong>: phenomenological DPM</td>
+            <td>1130</td><td>Plenary 2</td><td><strong>The WHAT</strong>: phenomenological DPM</td>
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1200</td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
+            <td>1230</td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
             <td><a href="https://pawij.github.io/">Peter Wijeratne</a>, UCL<br/>+TBC</td>
         </tr>
         <tr style="background-color:#000000">
-            <td></td><td></td><td>Break (lunch)</td>
+            <td>1330</td><td></td><td>Break (lunch)</td>
             <td></td>
         </tr>
         <tr style="background-color:#05a5cc">
-            <td></td><td>Plenary 3</td><td><strong>The HOW</strong>: mechanistic DPM</td>
+            <td>1500</td><td>Plenary 3 (with coffee!)</td><td><strong>The HOW</strong>: mechanistic DPM</td>
             <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
         <tr style="background-color:#000000">
-            <td></td><td style="text-align:right">Session 3</td><td style="text-align:center">Mechanisms, Causality,...</td>
+            <td>1600</td><td style="text-align:right">Session 3</td><td style="text-align:center">Mechanisms, Causality,...</td>
             <td>Charlie Arber, UCL<br/>+ TBC</td>
         </tr>
         <tr style="background-color:#000000">
-            <td></td><td>Evening Pub Session</td><td>Anecdotes; Pint of POND</td>
-            <td>TBC</td>
+            <td>1700+</td><td>Evening Session(s)</td><td>Dinner nearby; <br/>Pub: Anecdotes, Pint of POND (a la Pint of Science), etc.</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -82,12 +82,12 @@ Timings are subject to change. All times UTC+1 (London time).
     </thead>
     <tbody>
         <tr style="background-color:#000000">
-            <td>0930</td><td>Welcome</td><td>Regroup. Highlights of Day 1</td>
+            <td>0930</td><td>Welcome</td><td>Regroup. Highlights of Day 1. Discussion.</td>
             <td>Neil Oxtoby</td>
         </tr>
         <tr style="background-color:#05a5cc">
             <td>1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
-            <td>Moderated by UCL POND.<br/>Reviewer 3, et al.</td>
+            <td>Reviewer 3, et al.<br/>Moderated by POND22 organisers</td>
         </tr>
     </tbody>
 </table>
