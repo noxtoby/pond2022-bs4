@@ -94,5 +94,5 @@ Timings are subject to change. All times UTC+1 (London time).
 
 <hr/>
 
-[Contact us](mailto:n.oxtoby@ucl.ac.uk).
+[Contact us](mailto:team@pond2022.com).
 
