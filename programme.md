@@ -30,8 +30,8 @@ Timings are subject to change. All times UTC+1 (London time).
             <td><a href="https://researchinformation.amsterdamumc.org/en/persons/betty-tijms">Betty Tijms</a>, Amsterdam UMC</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1000</td><td style="text-align:right">Session 1</td><td style="text-align:center">ML, Forecasting,...</td>
-            <td>Esther Bron, ErasmusMC. <br/>Jacob Vogel, UPenn.</td>
+            <td>1000</td><td style="text-align:right">Session 1</td><td style="text-align:center">Machine Learning, Forecasting<br/>Genetics of Alzheimer's</td>
+            <td>Esther Bron, ErasmusMC. <br/>Philip Weston, UCL.</td>
         </tr>
         <tr style="background-color:#000000">
             <td>1100</td><td></td><td>Coffee and Conversations</td>
@@ -42,7 +42,7 @@ Timings are subject to change. All times UTC+1 (London time).
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1230</td><td style="text-align:right">Session 2</td><td style="text-align:center">DPM, Subtyping,...</td>
+            <td>1230</td><td style="text-align:right">Session 2</td><td style="text-align:center">POND modelling considerations<br/>Subtyping,...</td>
             <td><a href="https://pawij.github.io/">Peter Wijeratne</a>, UCL<br/>+TBC</td>
         </tr>
         <tr style="background-color:#000000">
@@ -54,8 +54,8 @@ Timings are subject to change. All times UTC+1 (London time).
             <td><a href="https://sgarbarino.github.io/">Sara Garbarino</a>, Universita di Genova</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1600</td><td style="text-align:right">Session 3</td><td style="text-align:center">Mechanisms, Causality,...</td>
-            <td>Charlie Arber, UCL<br/>+ TBC</td>
+            <td>1600</td><td style="text-align:right">Session 3</td><td style="text-align:center">Disease Mechanisms<br/>Subtyping and Spreading</td>
+            <td>Charlie Arber, UCL<br/>Jacob Vogel, UPenn.</td>
         </tr>
         <tr style="background-color:#000000">
             <td>1700+</td><td>Evening Session(s)</td><td>Dinner nearby; <br/>Pub: Anecdotes, Pint of POND (a la Pint of Science), etc.</td>
@@ -87,7 +87,7 @@ Timings are subject to change. All times UTC+1 (London time).
         </tr>
         <tr style="background-color:#05a5cc">
             <td>1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
-            <td>Reviewer 3, et al.<br/>Moderated by POND22 organisers</td>
+            <td>Reviewer 3, Frederik Barkhof, Bruno Jedynak, et al.<br/>Moderated by POND22 organisers</td>
         </tr>
     </tbody>
 </table>
