@@ -42,8 +42,8 @@ Timings are subject to change. All times UTC+1 (London time).
             <td><a href="https://sites.google.com/site/brunomjedynak/">Bruno Jedynak</a>, Portland State University</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1230</td><td style="text-align:right">Session 2</td><td style="text-align:center">POND modelling considerations<br/>Subtyping,...</td>
-            <td><a href="https://pawij.github.io/">Peter Wijeratne</a>, UCL<br/>+TBC</td>
+            <td>1230</td><td style="text-align:right">Session 2</td><td style="text-align:center">POND modelling considerations<br/>Subtyping vs Staging</td>
+            <td><a href="https://pawij.github.io/">Peter Wijeratne</a>, UCL<br/>Konstantinos Poulakis, Karolinska Institute</td>
         </tr>
         <tr style="background-color:#000000">
             <td>1330</td><td></td><td>Break (lunch)</td>
@@ -58,7 +58,7 @@ Timings are subject to change. All times UTC+1 (London time).
             <td>Charlie Arber, UCL<br/>Jacob Vogel, UPenn.</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1700+</td><td>Evening Session(s)</td><td>Dinner nearby; <br/>Pub: Anecdotes, Pint of POND (a la Pint of Science), etc.</td>
+            <td>1700+</td><td>Evening Session(s)</td><td>Rapid-fire Power Pitches; <br /> Dinner and Networking; <br/>POND in the Pub.</td>
             <td></td>
         </tr>
     </tbody>
@@ -83,7 +83,7 @@ Timings are subject to change. All times UTC+1 (London time).
     <tbody>
         <tr style="background-color:#000000">
             <td>0930</td><td>Welcome</td><td>Regroup. Highlights of Day 1. Discussion.</td>
-            <td>Neil Oxtoby</td>
+            <td><a href="http://neiloxtoby.com">Neil Oxtoby</a></td>
         </tr>
         <tr style="background-color:#05a5cc">
             <td>1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
