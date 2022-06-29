@@ -58,7 +58,7 @@ Timings are subject to change. All times UTC+1 (London time).
             <td>Charlie Arber, UCL<br/>Jacob Vogel, UPenn.</td>
         </tr>
         <tr style="background-color:#000000">
-            <td>1700+</td><td>Evening Session(s)</td><td>Rapid-fire Power Pitches; <br /> Dinner and Networking; <br/>POND in the Pub.</td>
+            <td>1700+</td><td>Evening Session(s)</td><td>In-person debrief and Networking (rapid-fire Power Pitches); <br /> Dinner and Networking (from 1730); <br/>POND in the Pub.</td>
             <td></td>
         </tr>
     </tbody>
