@@ -10,8 +10,8 @@ POND22 will take place on the main campus of UCL in Bloomsbury, London, UK.
 
 Venue:
 
-- Talks: Sir Ambrose Fleming Lecture Theatre, G06 (ground floor) Roberts building, UCL main campus: [UCL maps link](http://www.ucl.ac.uk/maps/sir-ambrose-fleming-lt)
-- Breaks: Roberts Building Foyer: [UCL maps link](http://www.ucl.ac.uk/maps/roberts-foyer)
+- Talks: Roberts Building Lecture Theatre 508 (fifth floor, enter through [Malet Place Engineering Front Building](https://www.ucl.ac.uk/maps/engineering-front-building)), UCL main campus: [UCL maps link](https://www.ucl.ac.uk/maps/roberts-508)
+- Breaks: a nearby room
 
 In-person participants on Wednesday will be invited to join us for an evening meal and refreshments nearby. Tea and coffee will be provided during breaks.
 
