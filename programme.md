@@ -86,8 +86,8 @@ Timings are subject to change. All times UTC+1 (London time).
             <td><a href="http://neiloxtoby.com">Neil Oxtoby</a></td>
         </tr>
         <tr style="background-color:#05a5cc">
-            <td>1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
-            <td>Reviewer 3, Frederik Barkhof, Bruno Jedynak, et al.<br/>Moderated by POND22 organisers</td>
+            <td>approximately 1000/1030</td><td>Round Table / Debate</td><td>Will POND models have clinical impact? <br/>Trials? Healthcare?</td>
+            <td>Reviewer 3, Bruno Jedynak, Danny Alexander, <del>Frederik Barkhof</del>, et al.<br/>Moderated by POND22 organisers</td>
         </tr>
     </tbody>
 </table>
