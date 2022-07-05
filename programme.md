@@ -23,7 +23,7 @@ Timings are subject to change. All times UTC+1 (London time).
     <tbody>
         <tr style="background-color:#000000">
             <td>0850</td><td>Welcome</td><td>Disease Progression Modelling (DPM)</td>
-            <td>TBC</td>
+            <td>Neil Oxtoby, Danny Alexander</td>
         </tr>
         <tr style="background-color:#05a5cc">
             <td>0900</td><td>Plenary 1</td><td><strong>The WHY</strong>: before DPM</td>
