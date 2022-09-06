@@ -9,15 +9,16 @@ title: POND22
 
 ### Data-driven modelling of the **P**rogression **O**f **N**eurological **D**iseases
 
-To mark the first 10 years of "POND modelling", the [UCL POND](http://pond.cs.ucl.ac.uk) group (and friends) are hosting a very special meeting in London UK, on 6 & 7 July 2022.
+To mark the first 10 years of "POND modelling", the [UCL POND](http://pond.cs.ucl.ac.uk) group (and friends) hosted a very special meeting in London UK, on 6 & 7 July 2022.
 
-POND22 is a celebration of the past, present, and future of data-driven disease progression modelling (DPM).
+POND22 was a celebration of the past, present, and future of data-driven disease progression modelling (DPM).
 
-You will be challenged. You will challenge us. You will have a lot of fun discussing science and impact.
+Attendees were challenged. Attendees challenged us. Attendees had a lot of fun discussing science and impact.
 
 Links:
 <ul>
     <li><a href="https://pond2022.com/programme.html">Programme</a></li>
+    <li><a href="https://youtube.com/playlist?list=PLmTWgy2Zb3-5pBTmClc7Qs7dN8QvUGM7i">Recordings</a></li>
     <li>NEW: <a href="https://pond2022.com/directions.html">Directions</a></li>
     <li><a href="https://www.eventbrite.co.uk/e/pond22-tickets-332501861017">Registration</a> (now closed)</li>
     <li><a href="mailto:team@pond2022.com?subject='POND22 query'">Contact us</a></li>
@@ -25,7 +26,7 @@ Links:
 
 <hr style="background-color:white"/>
 
-Past meetings: 
+Previous meetings: 
 - [POND16](http://europond.eu/pond2016) in London, UK
 - [POND18](http://europond.eu/pond2018) in Geneva, Switzerland
 - [POND20](http://europond.github.io/compage2020) (Compage2020) in Paris, France (and online)
